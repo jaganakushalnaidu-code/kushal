@@ -1,0 +1,7 @@
+# My First GitHub Project
+
+name = input("What is your name? ")
+
+print(f"Hello, {name}! 👋")
+print("Welcome to my first GitHub project!")
+print("I'm learning Python and GitHub.")
